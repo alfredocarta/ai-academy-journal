@@ -7,7 +7,7 @@
 - Note: Livello 7A iniziale stimato A3-A4. Setup LM Studio avviato su MacBook Air M3 16GB con Gemma 3.
 
 ## 2026-04-10 — Giorno 2
-- Task: 
-- Risultato: 
-- Tempo senza AI: [X min] | Tempo con AI: [Y min]
-- Note: 
+- Task: Prima sessione AI — riepilogo documento CATENATE AI Academy Intro
+- Risultato: Prompt grezzo → output generico e poco strutturato. Prompt raffinato (con ruolo, pubblico, formato e sezioni specificate) → output preciso, tecnico e direttamente utilizzabile.
+- Tempo senza AI: ~45 min (lettura manuale) | Tempo con AI: ~5 min
+- Note: La differenza tra i due prompt è netta. Specificare ruolo del modello, contesto, formato e sezioni migliora drasticamente la qualità. Concetto chiave confermato: il prompt è l'interfaccia, non un optional.
