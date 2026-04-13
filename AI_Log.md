@@ -11,3 +11,12 @@
 - Risultato: Prompt grezzo → output generico. Prompt raffinato → output preciso e strutturato. Confronto modelli: Gemini più verboso, ChatGPT più colloquiale, Claude più preciso sui limiti, Perplexity l'unico a cercare fonti. Sul test "sei sicuro?": Perplexity il più rigoroso, ChatGPT sycophantic, Gemini espansivo, Claude calibrato. Prompt few-shot → output più pulito e replicabile, seleziona i 4 concetti chiave giusti. Prompt strutturato → ha trovato affermazioni da verificare (statistica 985% McKinsey, $1B ARR Claude Code, break-even locale).
 - Tempo senza AI: ~45 min (lettura) | Tempo con AI: ~45 min
 - Note: Il prompt è l'interfaccia, non un optional. La reazione alla pressione rivela il carattere del modello più della risposta iniziale. Il few-shot è il migliore per analisi di documenti tecnici. Salvato Prompt Template 1 in prompt_templates.md.
+
+## 2026-04-13 — Giorno 3
+- Task: Esercizio L0 Giorno 3 — classificazione e test di 3 task reali con AI
+- Risultato:
+  1. Rispondere a email → AI-assistito | Senza AI: 10 min | Con AI: 2 min | Risparmio: 8 min/email
+  2. Riassumere documenti tecnici → AI-assistito | Senza AI: variabile | Con AI: pochi minuti | Risparmio: significativo su documenti lunghi
+  3. Trascrivere e riassumere audio lezioni → AI-automatizzabile | Senza AI: 3 ore | Con AI: 5 min | Risparmio: ~175 min/lezione
+- Tempo senza AI: ~3h+ su task 3 | Tempo con AI: ~10 min totali
+- Note: Il task 3 è il moltiplicatore più alto in assoluto (36x). Il task 1 è il più immediato da integrare come micro-abitudine quotidiana.
