@@ -20,3 +20,9 @@
   3. Trascrivere e riassumere audio lezioni → AI-automatizzabile | Senza AI: 3 ore | Con AI: 5 min | Risparmio: ~175 min/lezione
 - Tempo senza AI: ~3h+ su task 3 | Tempo con AI: ~10 min totali
 - Note: Il task 3 è il moltiplicatore più alto in assoluto (36x). Il task 1 è il più immediato da integrare come micro-abitudine quotidiana.
+
+## 2026-04-13 — Giorno 4
+- Task: Esercizio L0 Giorno 4 — confronto 4 modelli (Claude, ChatGPT, Gemini, Perplexity) su task di riassunto documento Giorno 4 (Strumenti e Costi)
+- Risultato: Tutti e quattro hanno risposto in modo istantaneo. Perplexity: prosa fluida con sintesi finale memorabile, cita fonti. Claude: il più sintetico, zero ridondanze. Gemini: bullet con titoli, aggiunge sezione esercizio pratico. ChatGPT: 10 bullet esatti, copertura totale, il più scansionabile.
+- Tempo senza AI: n/a | Tempo con AI: istantaneo (~10 sec per modello)
+- Note: Su task di riassunto strutturato le differenze si appiattiscono rispetto al Giorno 1. ChatGPT e Gemini più leggibili per bullet, Claude e Perplexity più sintetici in prosa. Daily driver confermato: Claude per analisi approfondite, ChatGPT per riassunti veloci da condividere.
