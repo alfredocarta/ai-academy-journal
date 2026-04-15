@@ -22,7 +22,7 @@
 - Tempo senza AI: ~3h+ su task 3 | Tempo con AI: ~10 min totali (task mapping) + istantaneo per confronto modelli
 - Note: Il task 3 è il moltiplicatore più alto in assoluto (36x). Il task 1 è il più immediato da integrare come micro-abitudine. Su task di riassunto strutturato le differenze tra modelli si appiattiscono rispetto al Giorno 1. Daily driver confermato: Claude per analisi approfondite, ChatGPT per riassunti veloci da condividere. Base solida su LLM, prompt engineering, strumenti e costi. 
 
-## 2026-04-15 - Giorno 6 e 7
+## 2026-04-14 - Giorno 6 e 7
 - Task: Esercizio L0 Giorno 6 - test RAG con NotebookLM su slide corso universitario Machine Learning (26 fonti PDF) + Esercizio L0 Giorno 7 - mappatura processo reale orchestrabile da un agente AI (pipeline studio)
 - Risultato: 9 domande tecniche risposte correttamente con citazione delle slide specifiche. Domanda trappola (cosa NON è nelle slide): NotebookLM non ha inventato ma ha elencato gap e lacune del documento invece di ammettere un limite netto, comportamento ibrido, onesto ma non perfetto. Pipeline studio identificata come caso d'uso agente: registrazione lezione -> trascrizione (Whisper) -> riassunto (Claude) -> flashcard (Claude) -> salvataggio (Notion/NotebookLM). Human-in-the-loop dopo il riassunto, prima della generazione flashcard.
 - Tempo senza AI: ~30 min (ricerca manuale nelle slide) + ~3h (pipeline studio manuale) | Tempo con AI: ~2 min (RAG) + ~10 min (pipeline automatizzata)
